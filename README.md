@@ -1,13 +1,24 @@
 ## SDSS Computing Studies Python Assignment
-### Assignment #xx <Title> (Total Marks xx)
+### Assignment #003 Working with Strings (Total Marks 10)
 
 Objectives:
-* 
+* Use the __name__ variable for increased reusability of code
+* Use len(string) to find the length of a string
+* Use some of the methods working with strings
+* Modify the content of strings
+* Import variables from other files
 
-<Description>
 
-### XX Tasks
+Read through the example files
 
 ##### Task 1
-(x points) 
+Write a function that searches a string for all occurrences of the word "dog" and replaces it with "kitty"
+(2 points) 
 
+##### Task 2
+Take a string and make sure that it is a proper sentence, with only the first letter capitalized and the rest of the sentence in lower case. We will assume that the sentence never includes names that require capitalization.
+(2 points)
+
+##### Task 3
+Split a string into 2 halves.  If doing so cuts a word in half, add a dash to the first line
+(2 points)
