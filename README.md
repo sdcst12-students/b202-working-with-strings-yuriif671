@@ -22,3 +22,7 @@ Take a string and make sure that it is a proper sentence, with only the first le
 ##### Task 3
 Split a string into 2 halves.  If doing so cuts a word in half, add a dash to the first line
 (2 points)
+
+##### Task 4
+A string is iterable, just like a list.  Create your deck of cards list by iterating through both strings for ranks and suits, and build a list to represent a deck of cards
+(2 points)
