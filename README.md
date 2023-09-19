@@ -26,3 +26,7 @@ Split a string into 2 halves.  If doing so cuts a word in half, add a dash to th
 ##### Task 4
 A string is iterable, just like a list.  Create your deck of cards list by iterating through both strings for ranks and suits, and build a list to represent a deck of cards
 (2 points)
+
+##### Problem 1
+String handling is important.  We can break a string into pieces to help us look at parts one at a time using the string.split function
+(2 points)
