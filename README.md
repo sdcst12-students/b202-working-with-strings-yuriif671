@@ -28,5 +28,11 @@ A string is iterable, just like a list.  Create your deck of cards list by itera
 (2 points)
 
 ##### Problem 1
-String handling is important.  We can break a string into pieces to help us look at parts one at a time using the string.split function
+String handling is important.  We can break a string into pieces to help us look at parts one at a time using the string.split function.
+Have the user enter a sentence or paragraph and gives a word count.
 (2 points)
+
+##### Problem 2
+Retrieve the contents of the sd.deltasd.bc.ca webpage.
+Remove all of the HTML and display just the real contents of the page.
+(3 points)
