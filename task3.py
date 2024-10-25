@@ -10,15 +10,13 @@ this function returns the length of the string
 '''
 
 def split(input):
-    '''
-    parameters
-    str input - string to be split
-    
-    return
-    str new string with line break in the middle
-    '''
+    middle = len(input) // 2
 
-    return
+    if input[middle] == ' ' or input[middle - 1] == ' ':
+        return(input[:middle] + '\n' + input[middle:])
+    else:
+        return(input[:middle] + '-\n' + input[middle:])
+
 
 if __name__ == "__main__":
     sentence = "There is a big balloon in the blue sky"
